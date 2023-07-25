@@ -1,0 +1,3 @@
+streamlit-ace
+openai
+primehub-python-sdk
